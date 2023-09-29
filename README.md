@@ -1,6 +1,8 @@
 # 5611_PinballSim
 Nae Olson Pinball Simluation project for class 5611 at the University of Minnesota
 
+Email: olso9261@umn.edu
+
 SimImage1.png: ![Alt](/SimImage1.png "Image")
 SimImage2.png: ![Alt](/SimImage2.png "Image")
 
