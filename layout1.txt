@@ -1,0 +1,29 @@
+Positions given as a ratio of screen width (x)/height (y). for symmetry, box widths are a ratio of height
+OBSTACLES:11: (anything after the second ':' is ignored) x y radius
+1/2 1/2 20
+1/2 1/3 20
+1/2 2/3 20
+1/3 1/2 5
+1/3 1/3 20
+1/3 1/6 20
+2/3 1/2 5
+2/3 1/3 20
+2/3 1/6 20
+7/16 4/6 5
+9/16 4/6 5
+LINES:6: x1 y1 x2 y2
+1/16 0 1/8 1/3
+15/16 0 7/8 1/3
+7/8 1/3 5/8 7/8
+3/8 7/8 1/8 1/3
+3/8 1 3/8 7/8
+5/8 7/8 5/8 1
+BOUNCYLINES:2: x1 y1 x2 y2
+1/3 1/2 7/16 4/6
+2/3 1/2 9/16 4/6
+BALLS:20
+ZONES:4: center_x center_y width height value(negative for "loss")
+1/2 1 8/16 1/16 -1
+1/2 1/2 2/16 2/16 10
+2/6 4/6 1/16 1/16 10
+4/6 4/6 1/16 1/16 10
