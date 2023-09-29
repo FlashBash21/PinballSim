@@ -1,6 +1,9 @@
 # 5611_PinballSim
 Nae Olson Pinball Simluation project for class 5611 at the University of Minnesota
 
+SimImage1.png: ![Alt](/SimImage1.png "Image")
+SimImage2.png: ![Alt](/SimImage2.png "Image")
+
 ## FEATURES AND TIMESTAMPS
 Showcase of features found in Nae_Video_Submission.mp4. Timestamps for each feature found below
 
