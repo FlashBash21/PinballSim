@@ -187,6 +187,7 @@ void update(float dt){
       }
     }
     
+    //in case the balls escape, keep them within the bounds
     if (pos[i].y > height - r){
       pos[i].y = height - r;
       vel[i].y += 10;
@@ -273,7 +274,7 @@ void draw(){
 
 
 
-
+//Collision code adapted from my Homework 1 sollutions to use arrays of vectors instead of arrays of objects, to increase performance
 
 
 //circle-circle collision

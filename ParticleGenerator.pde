@@ -19,6 +19,8 @@ public class ParticleGenerator {
     this.source_pos = source_pos;
   }
   
+  
+  //generator code based of a solution from Professor Stephen Guy's ParticleSystem 
   public void drawExplosion(float dt) {
     float to_gen_f = gen_rate * dt;
     int to_gen = int(to_gen_f);
