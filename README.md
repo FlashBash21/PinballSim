@@ -6,6 +6,9 @@ Email: olso9261@umn.edu
 SimImage1.png: ![Alt](/SimImage1.png "Image")
 SimImage2.png: ![Alt](/SimImage2.png "Image")
 
+
+https://media.github.umn.edu/user/25193/files/66d80488-7175-4dac-ab1e-024884a4bb03
+
 ## FEATURES AND TIMESTAMPS
 Showcase of features found in Nae_Video_Submission.mp4. Timestamps for each feature found below
 
